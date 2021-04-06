@@ -15,10 +15,11 @@
   }
 
   #container{
-      width: 50%;
-      height:75%;
+      min-width: 30vw;
+      min-height: 55vh;
       border-radius: 40px;
       background-color: lightblue;
+      padding-bottom: 20px;
   }
   #contHeader{
       width: 100%;
@@ -50,19 +51,19 @@
       width:33%;
       height: 200px;
       text-align: left;
-      background-color: darkgoldenrod;
+      /*background-color: darkgoldenrod;*/
   }
   #opt1{
       order:1;
-      background-color: cyan;
+      /*background-color: cyan;*/
   }
   #opt2{
       order:2;
-      background-color: darkblue;
+      /*background-color: darkblue;*/
   }
   #opt3{
       order:3;
-      background-color: darkcyan;
+      /*background-color: darkcyan;*/
   }
 
   #buttonCont{
