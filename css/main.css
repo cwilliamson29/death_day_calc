@@ -44,7 +44,7 @@
       display:flex;
       justify-content: space-between;
       flex-direction: row;
-      background-color: burlywood;
+      /*background-color: burlywood;*/
   }
   .OptionsColumn{
       padding-left: 25px;
